@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Sin &amp; Anton</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+    <string name="sinonim">\t\t\tMenurut Kamus Besar Bahasa Indonesia (KBBI) sinonim adalah bentuk bahasa yang maknanya mirip atau sama dengan bentuk bahasa lain. Jadi, dua kata yang memiliki makna mirip atau sama dapat dikatakan bahwa kedua kata tersebut bersinonim. Dua kata yang bersinonim dapat saling menggantikan (tidak mengubah makna) dalam berbagai konteks, tetapi bisa juga tidak.\n</string>
+    <string name="sin_persis">\t\t\tSinonim jenis ini disebut sinonim mutlak atau sinonim absolut. Sinonim persis adalah kata-kata yang memiliki makna sama dan dapat saling menggantikan dalam berbagai konteks kalimat.\n\nContoh: \nBisa = dapat \nahli = pakar
+\n\nPerhatikan kalimat-kalimat berikut!
+\n• Semua orang bisa mengikuti lomba itu.
+\n• Semua orang dapat mengikuti lomba itu
+\n\n• Tidak semua ahli memiliki pandangan yang sama.
+\n• Tidak semua pakar memiliki pandangan yang sama.\n
+</string>
+    <string name="sin_mirip">\t\t\tSinonim mirip adalah kata-kata yang memiliki makna mirip dan dapat saling menggantikan dalam konteks kalimat tertentu. Jadi, tidak semua kalimat yang memuat kata tersebut dapat digantikan oleh kata lainnya yang bermakna mirip tersebut. \nContoh: \nbagus = baik\n
+\nPerhatikan kalimat-kalimat berikut!
+\n• Cerpen yang inspiratif tersebut sangat bagus untuk dibaca oleh pelajar.
+\n• Cerpen yang inspiratif tersebut sangat baik untuk dibaca oleh pelajar.
+
+\n\nPada kedua kalimat tersebut, kata bagus dan baik bisa saling menggantikan tanpa mengubah makna.
+\n\nPerhatikan juga kalimat-kalimat berikut!
+\n• “Baik, Ayah, aku akan mengingat nasihatmu.”
+\n• “Bagus, Ayah, aku akan mengingat nasihatmu.”
+\n\n\t\tPada kedua kalimat tersebut, kata bagus dan baik memiliki makna berbeda saat digunakan dalam konteks kalimat yang sama. Itulah yang dimaksud dengan sinonim mirip. Dua kata yang bersinonim tersebut (baik dan bagus) tidak selalu bisa saling menggantikan. Kalaupun dipaksakan untuk saling menggantikan dalam konteks tertentu, maknanya akan berbeda.
+</string>
+
+    <string name="antonim">\t\t\tMenurut Kamus Besar Bahasa Indonesia (KBBI) antonim adalah kata yang berlawanan makna dengan kata lain. Jadi, antonim merupakan kebalikan dari sinonim. Bila ada dua kata berbeda yang memiliki makna berlawanan, kedua kata tersebut dapat dikatakan berantonim.
+\n\n\t\t\t\tSaat menentukan antonim, kamu harus berhati-hati. Masih banyak penggunaan lawan kata atas suatu kata lainnya yang keliru di masyarakat. Sebagai contoh, kamu mungkin masih menemukan atau mendengar orang yang mengatakan bahwa kata pendek merupakan lawan kata dari tinggi. Padahal, kedua kata tersebut tidak berantonim. Kamu pasti pernah mendengar istilah dataran tinggi, tetapi pernahkah kamu mendengar istilah dataran pendek? Tentu kamu tidak pernah mendengarnya dan istilah yang kamu dengar adalah dataran rendah. Jadi, antonim dari kata tinggi adalah rendah, sedangkan antonim dari kata pendek adalah panjang.
+<b>\n\n\t\t\tJadi, untuk menentukan antonim suatu kata, sebaiknya kamu mengetahui makna kata yang dimaksud terlebih dulu. Setelah itu, barulah kamu menentukan lawan katanya.</b>
+\n\nContoh:
+\nRendah X Tinggi
+\nPanjang X Pendek
+\nAcuh X Abai
+</string>
+</resources>

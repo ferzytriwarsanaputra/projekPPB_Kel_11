@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "664452821492",
+    "project_id": "dbsinanto",
+    "storage_bucket": "dbsinanto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664452821492:android:44054e975528894f7889a1",
+        "android_client_info": {
+          "package_name": "com.example.projek"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO_zfv9HxllYM2kHUQFz6AvTJf9zCiH38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

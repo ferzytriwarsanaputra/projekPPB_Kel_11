@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <item
+        android:id="@+id/mat_sino"
+        android:icon="@drawable/materi"
+        android:title="Materi Sinonim"/>
+    <item
+        android:id="@+id/mat_anto"
+        android:icon="@drawable/materi"
+        android:title="Materi Antonim"/>
+    <item
+        android:id="@+id/kam_sino"
+        android:icon="@drawable/kamus"
+        android:title="Kamus Sinonim"/>
+    <item
+        android:id="@+id/kam_anto"
+        android:icon="@drawable/kamus"
+        android:title="Kamus Antonim"/>
+    <item
+        android:title="Lainnya">
+        <menu>
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_arrow_circle_right_24"
+                android:title="About"/>
+        </menu>
+    </item>
+</menu>
