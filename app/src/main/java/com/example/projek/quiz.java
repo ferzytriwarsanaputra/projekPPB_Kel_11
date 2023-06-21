@@ -126,6 +126,11 @@ public class quiz extends Fragment {
     }
 
     public void cekJawaban() {
+        btnPilihanJawaban1.setEnabled(false);
+        btnPilihanJawaban2.setEnabled(false);
+        btnPilihanJawaban3.setEnabled(false);
+        btnPilihanJawaban4.setEnabled(false);
+
         if (btnPilihanJawaban1.isPressed()) {
             if (btnPilihanJawaban1.getText().toString().equals(jawaban)) {
                 skor = skor + 10;
@@ -166,15 +171,16 @@ public class quiz extends Fragment {
                 tvBenar.setText("" + benar);
                 btnPilihanJawaban4.setBackgroundColor(Color.RED);
             }
-        } else {
-            Toast.makeText(getContext(), "Silahkan pilih jawaban dulu!", Toast.LENGTH_SHORT).show();
-            return;
         }
 
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
                 setKonten();
+                btnPilihanJawaban1.setEnabled(true);
+                btnPilihanJawaban2.setEnabled(true);
+                btnPilihanJawaban3.setEnabled(true);
+                btnPilihanJawaban4.setEnabled(true);
             }
         }, 1000);
     }
